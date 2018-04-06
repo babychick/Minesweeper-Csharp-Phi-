@@ -1,0 +1,13 @@
+E:\Code C#\MyGame2\MyGame2\bin\Debug\MyGame2.exe.config
+E:\Code C#\MyGame2\MyGame2\bin\Debug\MyGame2.exe
+E:\Code C#\MyGame2\MyGame2\bin\Debug\MyGame2.pdb
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.csprojResolveAssemblyReference.cache
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.frm_Main.resources
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.Properties.Resources.resources
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.csproj.GenerateResource.Cache
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.exe
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.pdb
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.Game_Control.resources
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.frm_Custom.resources
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.frm_Record.resources
+E:\Code C#\MyGame2\MyGame2\obj\Debug\MyGame2.frm_Score.resources
